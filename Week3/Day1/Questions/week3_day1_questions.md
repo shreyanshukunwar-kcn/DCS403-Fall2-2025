@@ -1,6 +1,7 @@
-# C++ Loop Practice Problems
+# Week 3 Day 1 Assigment Questions
+## C++ Loops
 
-This document contains **C++ practice questions** on different types of loops — `while`, `do-while`, `for`, and **nested loops**. Each section includes problem statements and hints (no solutions included here).
+This document contains **C++ assignment questions** on different types of loops — `while`, `do-while`, `for`, and **nested loops**. Each section includes problem statements and hints (no solutions included here).
 
 ---
 
